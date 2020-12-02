@@ -1,0 +1,6 @@
+# Byte-compiled
+todoList/__pycache__/
+
+# Django stuff:
+*.log
+db.sqlite3
